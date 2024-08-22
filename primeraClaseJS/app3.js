@@ -19,5 +19,6 @@ console.log(typeof numbero1);
 let numbero1 = prompt("Ingresa tu primer número");
 let numbero2 = prompt("Ingresa tu segundo número");
 let resultado = parseInt(numbero1) + parseInt(numbero2);
+alert("La suma es igual a "+resultado)
 console.log("Tu resultado es " + resultado);
 console.log(typeof numbero1);
