@@ -1,0 +1,1 @@
+let vidas = Math.floor(Math.random())
